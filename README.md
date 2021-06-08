@@ -9,7 +9,7 @@ Homer web page remake with animation
     sass --watch sass:css
 ```
 
-## Package.json dependencies
+## Web technologies
 * HTML
 * CSS
 * FlexBox

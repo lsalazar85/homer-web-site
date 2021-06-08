@@ -1,6 +1,7 @@
 @import '../variables/main';
 
 @include resetStyles;
+@include animations;
 
 main {
     width: 100%;
@@ -146,26 +147,5 @@ main {
                 }
             }
         }
-    }
-}
-
-
-@keyframes rotate-animation {
-    from {
-        transform: rotate(0deg);
-    }
-
-    to {
-        transform: rotate(360deg);
-    }
-}
-
-@keyframes upDown-animation {
-    0% {
-        transform: translateY(0);
-    }
-
-    100% {
-        transform: translateY(-5rem);
     }
 }

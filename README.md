@@ -6,7 +6,9 @@ Homer web page remake with animation
 ## Run Dev Mode
 
 ```
-    sass --watch sass:css
+    npm run install
+
+    npm run sass
 ```
 
 ## Web technologies

@@ -1,3 +1,4 @@
+@use './colors' as *;
 @font-face {
   font-family: 'simpsonfontregular';
   src: url("../font/simpsonfont_demo-webfont.woff") format("woff");

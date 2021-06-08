@@ -1,19 +1,14 @@
 {
-  "name": "web-node-template",
+  "name": "homer-web-page",
   "version": "1.0.0",
-  "description": "Web template with Node, HTML, CSS and Sass",
+  "description": "Homer web page development in HTML, SASS & Node-sass",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass --watch src/assets/sass -o src/assets/css"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com-lsalazar85:lsalazar85/web-node-template.git"
-  },
   "author": "Luis Salazar",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^6.0.0",
-    "sass": "^1.34.1"
+    "node-sass": "^6.0.0"
   }
 }

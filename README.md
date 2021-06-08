@@ -6,7 +6,7 @@ Homer web page remake with animation
 ## Run Dev Mode
 
 ```
-    npm run install
+    npm i
 
     npm run sass
 ```

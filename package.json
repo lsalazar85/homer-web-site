@@ -1,0 +1,14 @@
+{
+  "name": "homer-web-page",
+  "version": "1.0.0",
+  "description": "Homer web page development in HTML, SASS & Node-sass",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --watch src/assets/sass -o src/assets/css"
+  },
+  "author": "Luis Salazar",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
